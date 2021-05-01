@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "936010204671",
+    "project_id": "mavericks-ba858",
+    "storage_bucket": "mavericks-ba858.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936010204671:android:604fb94b583ec1a67213ca",
+        "android_client_info": {
+          "package_name": "com.example.mavericks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936010204671-k05nioi23e75pt22ltt31ipi6h6shb6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSXTgUVdHqr_pZmYw5tawgRtkKwQxtqbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936010204671-k05nioi23e75pt22ltt31ipi6h6shb6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
