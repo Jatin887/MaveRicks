@@ -61,7 +61,7 @@ class QuestionActivity : AppCompatActivity() {
             Btn_submit.visibility=View.VISIBLE
         }
         else{ // Middle
-            Btn_next.visibility==View.VISIBLE
+            Btn_next.visibility=View.VISIBLE
             Btn_previous.visibility=View.VISIBLE
         }
         val question=questions!!["question$index"]
